@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57833878022",
+    "project_id": "sigaram-tech-assignment",
+    "storage_bucket": "sigaram-tech-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57833878022:android:3c4a83e1554966d234c987",
+        "android_client_info": {
+          "package_name": "com.example.sigaram_tech_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrI03A_IJ51Ob5Hgj_UKuTCY8pLPBjxWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
